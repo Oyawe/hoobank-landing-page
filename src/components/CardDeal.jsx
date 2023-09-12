@@ -18,8 +18,6 @@ const CardDeal = () => (
 
     <div className={layout.sectionImg}>
       <img src={card} alt="card" className="w-[100%] h-[100%] relative z-[5]" />
-      <div className="absolute z-[3] -right-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient"></div>
-      <div className="absolute z-[0] -right-1/2 bottom-0 w-[50%] h-[50%] rounded-full pink__gradient"></div>
     </div>
   </section>
 );
