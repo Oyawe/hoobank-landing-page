@@ -1,8 +1,27 @@
-# React + Vite
+# hoobank-landing-page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![ezgif-com-gif-maker.gif](https://i.postimg.cc/2SWpx2vb/ezgif-com-gif-maker.gif)
 
-Currently, two official plugins are available:
+## This project is a Figma Design website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## [The link to the figma design](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?type=design&node-id=310%3A486&mode=design&t=tGsgxSEPoE8ylgLy-1)
+
+## Description
+
+This was implemented using `REACT Js` and `Tailwind CSS`. I had a lot of fun designing this.<br>The website is mobile responsive.<br>The project has a very comprehendable file structure.<br><br>Building this project has equipped me with so much knowledge about creating websites from a `Figma` design.
+
+### Setup:
+
+-- install node modules
+
+```sh
+npm install
+```
+
+-- run dev server
+
+```sh
+npm run dev
+```
+
+-The project loads up in your browser🌟
