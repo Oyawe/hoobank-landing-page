@@ -8,7 +8,7 @@
 
 ## Description
 
-This was implemented using `REACT Js` and `Tailwind CSS`. I had a lot of fun designing this.<br>The website is mobile responsive.<br>The project has a very comprehendable file structure.<br><br>Building this project has equipped me with so much knowledge about creating websites from a `Figma` design.
+This was implemented using `REACT Js` and `Tailwind CSS`.<br>I had a lot of fun designing this.<br>The website is mobile responsive.<br>The project has a very comprehendable file structure.<br><br>Building this project has equipped me with so much knowledge about creating websites from a `Figma` design.
 
 ### Setup:
 
